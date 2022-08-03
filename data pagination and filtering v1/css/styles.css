@@ -47,6 +47,7 @@ header h2 {
 
 .student-search {
   display: flex;
+  color: red;
 }
 
 .student-search input {
